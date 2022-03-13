@@ -1,0 +1,13 @@
+# Test files
+*test*
+*temp*
+
+# Archives
+*.zip
+*.7z
+
+# Images and Videos
+*.jpg
+*.png
+*.mp4
+*.mkv
